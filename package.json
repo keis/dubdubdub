@@ -1,0 +1,12 @@
+{
+    "name": "dubdubdub",
+    "description": "w3c validation client",
+    "author": "David Keijser <keijser@gmail.com>",
+    "bin": {
+        "d3": "d3.js"
+    },
+    "dependencies": {
+        "request": "2.21.*",
+        "optimist": "0.5.*"
+    }
+}
