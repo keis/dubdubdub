@@ -11,7 +11,7 @@
         "d3": "d3.js"
     },
     "dependencies": {
-        "request": "2.21.*",
-        "optimist": "0.5.*"
+        "request": "2.21.x",
+        "optimist": "0.5.x"
     }
 }
