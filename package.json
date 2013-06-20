@@ -1,7 +1,12 @@
 {
     "name": "dubdubdub",
+    "version": "1.0.0",
     "description": "w3c validation client",
     "author": "David Keijser <keijser@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/keis/dubdubdub.git"
+    },
     "bin": {
         "d3": "d3.js"
     },
